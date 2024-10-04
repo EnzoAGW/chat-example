@@ -8,12 +8,12 @@
 
 
  const firebaseConfig = {
-  apiKey: 'AIzaSyBDgJBiJL6-b8mdYOk-W-eA4HJJFK2Zv6k',
-  authDomain: 'chatapp-9b248.firebaseapp.com',
-  projectId: 'chatapp-9b248',
-  storageBucket: 'chatapp-9b248.appspot.com',
-  messagingSenderId: '576643429573',
-  appId: '1:576643429573:web:76ef85861ab7c7b0082cac'
+  apiKey: 'YOUR_CREDENTIALS_HERE',
+  authDomain:'YOUR_CREDENTIALS_HERE',
+  projectId:'YOUR_CREDENTIALS_HERE',
+  storageBucket:'YOUR_CREDENTIALS_HERE',
+  messagingSenderId:'YOUR_CREDENTIALS_HERE',
+  appId: 'YOUR_CREDENTIALS_HERE'
 };
 
 initializeApp(firebaseConfig);
